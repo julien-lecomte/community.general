@@ -1,0 +1,2 @@
+minor_changes:
+  - gitlab_project - add additional params: ``analytics_access_level``, ``model_experiments_access_level``, ``requirements_access_level`` (https://github.com/ansible-collections/community.general/pull/XXXX).
